@@ -42,7 +42,7 @@
 ## 📖 Awesome_books_project website <a name="about-project"></a>
 
 
-Awesome book is a project built with a ES6 modules, with features that allow you to add to the list of books, remove from the list and save the list you already entered
+Awesome book is a project built with a ES6 modules, with features that allow you to add to the list of books, remove from the list and save the list you already entered.
 
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
