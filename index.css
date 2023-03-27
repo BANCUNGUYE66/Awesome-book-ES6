@@ -119,7 +119,7 @@ form {
   margin-block-start: 3em;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 11px;
 }
 
 form button {
